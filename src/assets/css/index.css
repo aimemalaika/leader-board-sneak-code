@@ -3,7 +3,8 @@
 }
 
 header {
-  margin: 40px auto;
+  margin: 40px auto 20px auto;
+  border-bottom: 1px solid black;
 }
 
 header,
